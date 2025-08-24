@@ -7,3 +7,5 @@ TNS-GitHub Tutorial Session
 - How to optimise your GitHub profile?
 - Operations on GitHub - Fork, Raw Data, etc...
 - All about GitHub Workspace!!! - From Crazy things to facing challenges!
+
+Hi I am Samriidh
